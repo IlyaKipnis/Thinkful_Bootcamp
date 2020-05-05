@@ -1,4 +1,2 @@
 # Thinkful_Bootcamp
-Thinkful bootcamp to show that I can actually code in Python
-
-Also will be uploading other code to my blog, https://quantstrattrader.wordpress.com which is already seen as an extremely helpful resource for R in quantitative finance in the blogging world.
+These are my capstone projects from my Thinkful Data Science bootcamp program that I completed in four out of the scheduled six months. They apply various techniques from machine learning (in Python) to volatility trading research.
